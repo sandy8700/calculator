@@ -1,0 +1,20 @@
+.display {
+  height: 50px;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  background-color: #4357692d;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  font-weight: bold;
+  text-align: right;
+  box-sizing: border-box;
+  font-size: 25px;
+  border: 0;
+}
+:focus{
+    outline: 0;
+}
